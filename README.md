@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @igusouz.
-- 👽 I’m interested in C# development.
-- 🦾 I’m looking to collaborate on any gamming projects.
-- 📫 You can reach me by this GitHub profile and by my email - igorrafael.jobs@gmail.com
+# Ígor Souza
+
+👋 Olá, meu nome é Ígor.
+👨‍💻 Sou um desenvolvedor FullStack focado em C# e ReactJS.
+🚩 Recife - PE
+🏅 Técnico em Computação Gráfica e Graduando de Análise e Desenvolvimento de Sistemas
