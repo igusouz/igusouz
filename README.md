@@ -1,7 +1,7 @@
 # Ígor Souza
 
 👋 Olá, meu nome é Ígor.  
-👨‍💻 Desenvolvedor FullStack
+👨‍💻 Desenvolvedor FullStack  
 🚩 Recife - PE  
 🏅 Técnico em Computação Gráfica e Graduando de Análise e Desenvolvimento de Sistemas  
 
