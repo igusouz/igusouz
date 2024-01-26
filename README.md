@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @igusouz.
-- 👽 I’m interested in Gaming Dev.
-- 🧠 I’m currently learning Web Programming and C#.
+- 👽 I’m interested in C# development.
 - 🦾 I’m looking to collaborate on any gamming projects.
 - 📫 You can reach me by this GitHub profile and by my email - igorrafael.jobs@gmail.com
