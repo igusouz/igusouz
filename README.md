@@ -5,6 +5,15 @@
 🚩 Recife - PE  
 🏅 Técnico em Computação Gráfica e Graduando de Análise e Desenvolvimento de Sistemas  
 
+<h2> 📊 Github Stats </h2>
+
+-   🖥️ GitHub Profile Stats
+
+<div align="center">
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=igusouz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&hide=html,css,scss,php,ejs" />
+</div>  
+
 ## 👀 Sobre mim
 Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento em UX/UI Design e C# e seus frameworks. Dedicado a desenvolver interfaces de usuário interativas e eficientes, juntamente com um backend estruturado. Estou motivado para me integrar a uma equipe dinâmica, contribuindo ativamente enquanto aprimoro minhas habilidades através de experiências práticas.
 
