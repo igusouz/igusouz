@@ -80,8 +80,9 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/igusouz/">
-    <b>
+    <img src="https://skillicons.dev/icons?i=linkedin">
+    <p>
       /igusouz
-    </b>
+    </p>
   </a>
 </div>
