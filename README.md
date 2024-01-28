@@ -85,46 +85,4 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://vuejs.org">
-        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="vue icon"/><br/>
-        <sub>
-          <b>
-            <pre>Vue</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://angular.io">
-        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br/>
-        <sub>
-          <b>
-            <pre>Angular</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/pt-br/">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="express icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express.js</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-      <a href="https://pt.quarkus.io">
-      <img src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png" width="65px" alt="Bootstrap icon"/><br/>
-      <sub>
-        <b>
-          <pre>Quarkus</pre>
-        </b>
-      </sub>
-      </a>
-  </td>
 </table>
