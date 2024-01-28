@@ -11,7 +11,7 @@
 
 <div align="center">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=igusouz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&size_weight=0&count_weight=1&langs_count=10"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&langs_count=10"/>
 </div>  
 
 ## 👀 Sobre mim
