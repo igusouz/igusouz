@@ -1,5 +1,5 @@
 <!-- Bem-vindo  -->
-# Olá, seja bem-vindo ao perfil de Ígor Souza!👾
+# 👾 Olá, seja bem-vindo ao perfil de Ígor Souza!
 
 👨‍💻 Desenvolvedor FullStack  
 🚩 Recife - PE  
@@ -89,7 +89,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
 ## 💬 Conecte-se comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/igusouz/">
+  <a href="https://www.linkedin.com/in/igusouz/" text-decoration="none">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkein icon" margin-right="7px" />
   </a>
   
