@@ -96,10 +96,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
 </table>
 
 ## 💬 Conecte-se comigo
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/igusouz/)
-  <a href="https://www.linkedin.com/in/igusouz/">
-    <img src="" alt="linkein icon" margin-right="7px" />
-  </a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igusouz/)
   
   <a href="https://mailto:igorrafael.jobs@gmail.com/">
     <img src="https://skillicons.dev/icons?i=gmail" alt="mail icon"/>
