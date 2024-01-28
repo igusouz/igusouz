@@ -43,8 +43,6 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         </sub>
       </a>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
         <img src="https://skillicons.dev/icons?i=dotnet" width="60px" alt=".NET icon"/><br/>
@@ -55,4 +53,5 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         </sub>
       </a>
     </td>
+  </tr>
 </table>
