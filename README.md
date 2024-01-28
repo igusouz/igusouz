@@ -1,5 +1,4 @@
 <!-- Bem-vindo  -->
-<link rel="stylesheet" href="path/to/module/css/css-text-decoration">
 # 👾 Olá, seja bem-vindo ao perfil de Ígor Souza!
 
 👨‍💻 Desenvolvedor FullStack  
