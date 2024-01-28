@@ -10,6 +10,5 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
 
 
 ## Skills
-| Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
-| :-----------------: | :-----------------------: | :----------------------: | :------------: | :-----------------------: |
+| :-----------------: |
 | <img height="40" src="https://skillicons.dev/icons?i=cs"> | 
