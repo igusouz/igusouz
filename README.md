@@ -55,7 +55,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
     </td>
     <td align="center">
       <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="60px" alt=".NET icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=react" width="60px" alt="REACT icon"/><br/>
         <sub>
           <b>
             <pre>React</pre>
@@ -65,10 +65,20 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt=".NET icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt="=SQL icon"/><br/>
         <sub>
           <b>
             <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="60px" alt="GIT icon"/><br/>
+        <sub>
+          <b>
+            <pre>Git</pre>
           </b>
         </sub>
       </a>
@@ -81,6 +91,11 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
   <a href="https://www.linkedin.com/in/igusouz/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkein icon" margin-right="7px" />
   </a>
+  
   <a href="https://mailto:igorrafael.jobs@gmail.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="mail icon"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="mail icon"/>
+  </a>
+
+  <a href="https://www.instagram.com/igusouz/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="mail icon"/>
   </a>
