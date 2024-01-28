@@ -1,5 +1,4 @@
 <!-- Bem-vindo  -->
-<body text-decoration="none">
 # 👾 Olá, seja bem-vindo ao perfil de Ígor Souza!
 
 👨‍💻 Desenvolvedor FullStack  
@@ -103,5 +102,3 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
   </a>
   
 </div>
-
-</body>
