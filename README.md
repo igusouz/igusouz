@@ -55,7 +55,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
     </td>
     <td align="center">
       <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="60px" alt=".React icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=react" width="60px" alt=".NET icon"/><br/>
         <sub>
           <b>
             <pre>React</pre>
@@ -64,18 +64,8 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
       </a>
     </td>
     <td align="center">
-      <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="60px" alt=".Express icon"/><br/>
-        <sub>
-          <b>
-            <pre>Express</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt=".SQL icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt=".NET icon"/><br/>
         <sub>
           <b>
             <pre>MySQL</pre>
@@ -83,15 +73,15 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60px" alt=".mongodb icon"/><br/>
-        <sub>
-          <b>
-            <pre>MongoDB</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
+
+## 💬 Conecte-se comigo
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/igusouz/">
+    <b>
+      /igusouz
+    </b>
+  </a>
+</div>
