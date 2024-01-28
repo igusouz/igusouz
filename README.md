@@ -88,8 +88,8 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
 
 ## 💬 Conecte-se comigo
 
-<div>
-  <a href="https://www.linkedin.com/in/igusouz/" text-decoration="none">
+<div text-decoration="none">
+  <a href="https://www.linkedin.com/in/igusouz/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkein icon" margin-right="7px" />
   </a>
   
