@@ -53,5 +53,15 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="60px" alt=".NET icon"/><br/>
+        <sub>
+          <b>
+            <pre>.NET</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
