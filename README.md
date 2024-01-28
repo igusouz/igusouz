@@ -3,7 +3,7 @@
 
 👨‍💻 Desenvolvedor FullStack  
 🚩 Recife - PE  
-🏅 Técnico em Computação Gráfica e Graduando de Análise e Desenvolvimento de Sistemas  
+🏅 Técnico em Computação Gráfica e Graduando em Análise e Desenvolvimento de Sistemas  
 
 <h2> 📊 Github Stats </h2>
 
