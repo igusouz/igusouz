@@ -11,7 +11,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
 
 ## ✔ Skills
 
-<table height="190em" width="100%">
+<table width="100%">
   <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
