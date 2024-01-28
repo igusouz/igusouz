@@ -65,7 +65,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=MySQL" width="60px" alt=".NET icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt=".NET icon"/><br/>
         <sub>
           <b>
             <pre>MySQL</pre>
