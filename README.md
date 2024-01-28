@@ -58,7 +58,17 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         <img src="https://skillicons.dev/icons?i=react" width="60px" alt=".NET icon"/><br/>
         <sub>
           <b>
-            <pre>.NET</pre>
+            <pre>React</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=MySQL" width="60px" alt=".NET icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
           </b>
         </sub>
       </a>
