@@ -26,6 +26,11 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
       </a>
     </td>
     <td align="center">
+      <a href="https://www.java.com/pt-BR/">
+        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="C# icon"/><br/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.javascript.com">
       <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Js icon"/><br/>
       </a>
