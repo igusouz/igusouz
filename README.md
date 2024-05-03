@@ -25,9 +25,19 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
         <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="C# icon"/><br/>
       </a>
     </td>
+      <td align="center">
+      <a href="https://learn.microsoft.com/pt-br/dotnet/">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="60px" alt=".NET icon"/><br/>
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.java.com/pt-BR/">
         <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="C# icon"/><br/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spring.io/">
+        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="C# icon"/><br/>
       </a>
     </td>
     <td align="center">
@@ -38,11 +48,6 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
     <td align="center">
       <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Nodejs icon"/><br/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/pt-br/dotnet/">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="60px" alt=".NET icon"/><br/>
       </a>
     </td>
     <td align="center">
