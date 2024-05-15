@@ -1,9 +1,9 @@
-<!-- Bem-vindo  -->
-# 👾 Olá, seja bem-vindo ao perfil de Ígor Souza!
+<!-- Welcome  -->
+# 👾 Hey! Welcome to Ígor Souza's Profile!
 
-👨‍💻 Desenvolvedor FullStack  
-🚩 Recife - PE  
-🏅 Técnico em Computação Gráfica e Graduando em Análise e Desenvolvimento de Sistemas  
+👨‍💻 Full-Stack Developer
+🚩 Recife - PE, Brazil
+🏅 CG Technician and Graduate in Systems Analysis and Development 
 
 <h2> 📊 Github Stats </h2>
 
@@ -13,7 +13,9 @@
 </div>  
 
 ## 👀 Sobre mim
-Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento em UX/UI Design e C# e seus frameworks. Dedicado a desenvolver interfaces de usuário interativas e eficientes, juntamente com um backend estruturado. Estou motivado para me integrar a uma equipe dinâmica, contribuindo ativamente enquanto aprimoro minhas habilidades através de experiências práticas.
+Hey there! My name is Ígor Souza.
+
+Currently, I am focused on Full-Stack development combined with my knowledge in UX/UI Design and C#/Java/JS and its frameworks. Dedicated to developing interactive and efficient user interfaces, along with a structured backend. I am motivated to integrate into a dynamic team, actively contributing while enhancing my skills through practical experiences.
 
 
 ## ✔ Skills
@@ -68,7 +70,7 @@ Atualmente estou focado em desenvolvimento FullStack somado ao meu conhecimento 
   </tr>
 </table>
 
-## 💬 Conecte-se comigo
+## 💬 Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igusouz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorrafael.jobs@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igusouz/)
