@@ -3,7 +3,7 @@
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
-🏅 CG Technician and Graduate in Systems Analysis and Development    
+🏅 CG Technician and majoring in Systems Analysis and Development
 
 <h2> 📊 Github Stats </h2>
 
