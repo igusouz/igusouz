@@ -1,9 +1,9 @@
 <!-- Welcome  -->
 # 👾 Hey! Welcome to Ígor Souza's Profile!
 
-👨‍💻 Full-Stack Developer
-🚩 Recife - PE, Brazil
-🏅 CG Technician and Graduate in Systems Analysis and Development 
+👨‍💻 Full-Stack Developer    
+🚩 Recife - PE, Brazil    
+🏅 CG Technician and Graduate in Systems Analysis and Development    
 
 <h2> 📊 Github Stats </h2>
 
