@@ -9,7 +9,7 @@
 
 <div align="center">
     <img height="152em" src="https://github-readme-stats.vercel.app/api?username=igusouz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&hide=html,css,scss,php,ejs" />
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&hide=html,css,scss,php,ejs,procfile" />
 </div>  
 
 ## 👀 Sobre mim
