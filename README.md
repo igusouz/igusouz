@@ -1,7 +1,7 @@
 <!-- Welcome  -->
 # 👾 Hey! Welcome to Ígor Souza's Profile!
 
-<div class="tenor-gif-embed" data-postid="17778510" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/be-the-leaf-dance-moves-kid-smile-gif-17778510">Be The Leaf Dance GIF</a>from <a href="https://tenor.com/search/be+the+leaf-gifs">Be The Leaf GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/bmLak.gif" alt="meelo" />
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
