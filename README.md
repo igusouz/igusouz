@@ -1,13 +1,9 @@
 <!-- Welcome  -->
 # 👾 Hey! Welcome to Ígor Souza's Profile!
 
-
-
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
 🏅 CG Technician and major in Systems Analysis and Development
-
-<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" width="90" height="90" alt="meelo"/>
 
 <h2> 📊 Github Stats </h2>
 
@@ -24,7 +20,8 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 ## ✔ Skills
 
-<table width="100%">
+<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" width="90" height="90" alt="meelo"/>
+<table align="right" height="190em" width="50%">
   <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
