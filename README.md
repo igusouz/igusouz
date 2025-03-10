@@ -1,7 +1,7 @@
 <!-- Welcome  -->
 # 👾 Hey! Welcome to Ígor Souza's Profile!
 
-<img src="https://tenor.com/bmLak.gif" width="50%" align="right" alt="meelo" />
+<img src="https://tenor.com/bmLak.gif" width="40" height="40" alt="meelo"/>
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
