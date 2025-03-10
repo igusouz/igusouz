@@ -1,7 +1,7 @@
 <!-- Welcome  -->
 # 👾 Hey! Welcome to Ígor Souza's Profile!
 
-<img src="https://tenor.com/pt-BR/view/be-the-leaf-dance-moves-kid-smile-gif-17778510"  width="90" align="right" alt="r2d2" />
+<img src="https://tenor.com/bmLak.gif"  width="90" align="right" alt="r2d2" />
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
