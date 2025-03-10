@@ -1,11 +1,13 @@
 <!-- Welcome  -->
 # 👾 Hey! Welcome to Ígor Souza's Profile!
 
-<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" width="40" height="40" alt="meelo"/>
+
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
 🏅 CG Technician and major in Systems Analysis and Development
+
+<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" width="90" height="90" alt="meelo"/>
 
 <h2> 📊 Github Stats </h2>
 
