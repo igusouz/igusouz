@@ -98,6 +98,6 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 </div>
 
 <div align="center">
-  <img width="75%"src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
+  <img width="50%"src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
 </div>
 
