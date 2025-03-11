@@ -24,7 +24,7 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 <img align="left" height="60%" width="25%" src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo" />
 
-<table align="right" heig7ht="190em" width="50%">
+<table align="right" heig7ht="190em" width="100%">
   <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
