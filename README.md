@@ -3,9 +3,12 @@
 <img src="https://i.gifer.com/origin/36/36f6af196328300ef2f4ea130be42d89_w200.gif" width="90" align="right" alt="sonic" />
 
 <div id="user-content-toc">
-  <h1> 👾 Hey! Welcome to Ígor's Profile! </h1>
+  <ul style="list-style: none;">
+    <summary>
+      <h1> 👾 Hey! Welcome to Ígor's Profile! </h1>
+    </summary>
+  </ul>
 </div>
-
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
