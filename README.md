@@ -41,8 +41,6 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
         <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="C# icon"/><br/>
       </a>
     </td>
-  </tr>
-  <tr>
   <td align="center">
       <a href="https://spring.io/">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="C# icon"/><br/>
@@ -58,8 +56,6 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Nodejs icon"/><br/>
       </a>
     </td>
-  </tr>
-  <tr>
       <td align="center">
       <a href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react" width="60px" alt="REACT icon"/><br/>
