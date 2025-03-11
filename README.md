@@ -19,7 +19,7 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 
 ## ✔ Skills
-<table align="right" height="190em" width="50%">
+<table>
   <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/pt-br/dotnet/">
@@ -74,4 +74,4 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorrafael.jobs@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igusouz/)
 
-<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
+<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" align="center" alt="meelo"/>
