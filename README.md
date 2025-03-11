@@ -1,4 +1,7 @@
 <!-- Welcome  -->
+
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 <img src="https://i.gifer.com/origin/36/36f6af196328300ef2f4ea130be42d89_w200.gif" width="90" align="right" alt="sonic" />
 
 <h1> 👾 Hey! Welcome to Ígor's Profile! </h1>
