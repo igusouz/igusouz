@@ -21,13 +21,13 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&hide=html,css,scss,php,ejs,procfile,jupyternotebook" />
 </div>  
 
-## 👀 About me
+<h2> ## 👀 About me </h2>
 Hey there! My name is Ígor Souza.
 
 Currently, I am focused on Full-Stack development combined with my knowledge in UX/UI Design and C#/Java/JS and its frameworks. Dedicated to developing interactive and efficient user interfaces, along with a structured backend. I am motivated to integrate into a dynamic team, actively contributing while enhancing my skills through practical experiences.
 
 
-## ✔ Skills
+<h2> ✔ Skills </h2>
 <table>
   <tr>
     <td align="center">
@@ -78,8 +78,20 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
   </tr>
 </table>
 
-<hr>
+<h2> 💬 Connect with me </h2>
+
+<div flex align="center">
+  <a href="https://www.linkedin.com/in/igusouz/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin icon"/><br/>
+  </a>
+  <a href="mailto:igorrafael.jobs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin icon"/><br/>
+  </a>
+  <a href="https://www.instagram.com/igusouz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin icon"/><br/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
 </div>
-
