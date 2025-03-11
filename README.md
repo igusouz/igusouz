@@ -81,18 +81,18 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 <h2> 💬 Connect with me </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/igusouz/">
+  <a href="https://www.linkedin.com/in/igusouz/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/>
   </a>
-  <a href="mailto:igorrafael.jobs@gmail.com">
+  <a href="mailto:igorrafael.jobs@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/>
   </a>
-  <a href="https://www.instagram.com/igusouz/">
+  <a href="https://www.instagram.com/igusouz/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram icon"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
+  <img width="75%"src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
 </div>
 
