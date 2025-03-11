@@ -80,17 +80,17 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 <h2> 💬 Connect with me </h2>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/igusouz/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin icon"/><br/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/>
   </a>
   <a href="mailto:igorrafael.jobs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail icon"/><br/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/>
   </a>
   <a href="https://www.instagram.com/igusouz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta icon"/><br/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram icon"/>
   </a>
-</div>
+</p>
 
 <div align="center">
   <img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
