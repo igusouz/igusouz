@@ -19,8 +19,6 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 
 ## ✔ Skills
-
-<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" width="90" height="90" alt="meelo"/>
 <table align="right" height="190em" width="50%">
   <tr>
     <td align="center">
@@ -75,3 +73,5 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igusouz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorrafael.jobs@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igusouz/)
+
+<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
