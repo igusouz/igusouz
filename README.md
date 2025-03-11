@@ -80,7 +80,7 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 <h2> 💬 Connect with me </h2>
 
-<div flex align="center">
+<div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/igusouz/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin icon"/><br/>
   </a>
@@ -95,3 +95,4 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 <div align="center">
   <img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
 </div>
+
