@@ -12,7 +12,7 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&hide=html,css,scss,php,ejs,procfile,jupyternotebook" />
 </div>  
 
-## 👀 Sobre mim
+## 👀 About me
 Hey there! My name is Ígor Souza.
 
 Currently, I am focused on Full-Stack development combined with my knowledge in UX/UI Design and C#/Java/JS and its frameworks. Dedicated to developing interactive and efficient user interfaces, along with a structured backend. I am motivated to integrate into a dynamic team, actively contributing while enhancing my skills through practical experiences.
