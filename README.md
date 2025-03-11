@@ -69,9 +69,8 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
   </tr>
 </table>
 
-## 💬 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igusouz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorrafael.jobs@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igusouz/)
+<hr>
 
-<img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" align="center" alt="meelo"/>
+<div align="center">
+  <img src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
+</div>
