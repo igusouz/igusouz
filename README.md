@@ -12,7 +12,7 @@
 
 👨‍💻 Full-Stack Developer    
 🚩 Recife - PE, Brazil    
-🏅 CG Technician and major in Systems Analysis and Development
+🏅 CG Technician and major in Systems Analysis and Development    
 🔷 Appian Certified Associate Developer
 
 <h2> 📊 Github Stats </h2>
