@@ -17,10 +17,18 @@
 
 <h2> 📊 Github Stats </h2>
 
-<div align="center">
-    <img height="152em" src="https://github-readme-stats.vercel.app/api?username=igusouz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=dark&hide=html,css,scss,php,ejs,procfile,jupyternotebook" />
-</div>  
+<h2> 📊 Github Stats </h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=igusouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" 
+       alt="GitHub Stats" 
+       height="165em" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=igusouz&layout=compact&theme=tokyonight&hide=html,css,scss,php,ejs,procfile,jupyternotebook,dockerfile,yaml,shell" 
+       alt="Top Langs" 
+       height="165em" />
+</div>
 
 <h2> 👀 About me </h2>
 Hey there! My name is Ígor Souza.
