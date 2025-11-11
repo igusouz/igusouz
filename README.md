@@ -17,8 +17,6 @@
 
 <h2> 📊 Github Stats </h2>
 
-<h2> 📊 Github Stats </h2>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=igusouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" 
