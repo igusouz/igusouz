@@ -44,7 +44,7 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 <th>Frontend</th>  
 <th>Data</th>  
 <th>Cloud</th>  
-<th>Version Control</th>  
+<th>Version <br> Control</th>  
 </tr>  
 <tr>  
 <td>
