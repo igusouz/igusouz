@@ -1,3 +1,4 @@
+
 <!-- Welcome  -->
 
 <img src="https://i.gifer.com/origin/36/36f6af196328300ef2f4ea130be42d89_w200.gif" width="90" align="right" alt="sonic" />
@@ -35,76 +36,91 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 
 
 <h2> ✔ Skills </h2>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://learn.microsoft.com/pt-br/dotnet/">
-        <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="C# icon"/><br/>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<table>  
+<tr>  
+<th>Backend</th>  
+<th>Frontend</th>  
+<th>Data</th>  
+<th>Cloud</th>  
+<th>Version Control</th>  
+</tr>  
+<tr>  
+<td>
+<a href="https://learn.microsoft.com/pt-br/dotnet/">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt=".NET icon"/><br/>
       </a>
-    </td>
-      <td align="center">
-      <a href="https://learn.microsoft.com/pt-br/dotnet/">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="60px" alt=".NET icon"/><br/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.java.com/pt-BR/">
-        <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="C# icon"/><br/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spring.io/">
+            <a href="https://spring.io/">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="C# icon"/><br/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://www.javascript.com">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Js icon"/><br/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/en">
+            <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Nodejs icon"/><br/>
       </a>
-    </td>
-    <td align="center">
+</td>  
+<td>
       <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="60px" alt="REACT icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="REACT icon"/><br/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="60px" alt="=SQL icon"/><br/>
+            <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="REACT icon"/><br/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" width="60px" alt="GIT icon"/><br/>
       </a>
-    </td>
-  </tr>
+            <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="REACT icon"/><br/>
+      </a>
+</td>  
+<td>
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="REACT icon"/><br/>
+      </a>
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="REACT icon"/><br/>
+      </a>
+       <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="65px" alt="REACT icon"/><br/>
+      </a>
+</td>  
+<td>
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="REACT icon"/><br/>
+</td>  
+<td>
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="REACT icon"/><br/>
+      </a>
+            <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="REACT icon"/><br/>
+      </a>
+</td>  
+</tr>  
 </table>
+</div>
 
 <h2> 💬 Connect with me </h2>
 
 
-<div align="center" id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-        <a href="https://www.linkedin.com/in/igusouz/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/>
-  </a>
-  <a href="mailto:igorrafael.jobs@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/>
-  </a>
-  <a href="https://www.instagram.com/igusouz/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram icon"/>
-  </a>
-    </summary>
-  </ul>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<table>  
+<td>
+<a href="https://www.linkedin.com/in/igusouz/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt=".NET icon"/><br/>
+      </a>
+</td>  
+<td>
+      <a href="https://www.instagram.com/igusouz/">
+        <img src="https://skillicons.dev/icons?i=instagram" width="65px" alt="REACT icon"/><br/>
+      </a>
+</td>  
+<td>
+      <a href="mailto:igorrafael.jobs@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="65px" alt="REACT icon"/><br/>
+      </a>
+</td>  
+</tr>  
+</table>
 </div>
 
 <div align="center">
   <img width="50%"src="https://c.tenor.com/YYi5k-92tcwAAAAC/tenor.gif" alt="meelo"/>
 </div>
-
