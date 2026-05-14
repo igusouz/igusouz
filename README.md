@@ -83,7 +83,7 @@ Currently, I am focused on Full-Stack development combined with my knowledge in 
 </td>  
 <td>
       <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="REACT icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="REACT icon"/><br/>
 </td>  
 <td>
       <a href="https://react.dev/">
